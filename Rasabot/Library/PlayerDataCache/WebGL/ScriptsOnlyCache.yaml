@@ -25,8 +25,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.TilemapPrefabStageHelper
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    Unity.Timeline.Editor.dll:
-    - TimelineProjectSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -60,31 +58,31 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1524}
+      Script: {instanceID: 7208}
     - Class: 114
-      Script: {instanceID: 1918}
+      Script: {instanceID: 7594}
     - Class: 114
-      Script: {instanceID: 2262}
+      Script: {instanceID: 7926}
     - Class: 114
-      Script: {instanceID: 2696}
+      Script: {instanceID: 8356}
     - Class: 114
-      Script: {instanceID: 2870}
+      Script: {instanceID: 8528}
     - Class: 114
-      Script: {instanceID: 2962}
+      Script: {instanceID: 8616}
     - Class: 114
-      Script: {instanceID: 3106}
+      Script: {instanceID: 8758}
     - Class: 114
-      Script: {instanceID: 3372}
+      Script: {instanceID: 9024}
     - Class: 114
-      Script: {instanceID: 3492}
+      Script: {instanceID: 9144}
     - Class: 114
-      Script: {instanceID: 4926}
+      Script: {instanceID: 10560}
     - Class: 114
-      Script: {instanceID: 4936}
+      Script: {instanceID: 10570}
     - Class: 114
-      Script: {instanceID: 5504}
+      Script: {instanceID: 11132}
     - Class: 114
-      Script: {instanceID: 5614}
+      Script: {instanceID: 11242}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -821,4 +819,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Kady/Documents/GitHub/desktop-tutorial/webgl
+  playerPath: C:/Users/Kady/Documents/GitHub/desktop-tutorial/web
